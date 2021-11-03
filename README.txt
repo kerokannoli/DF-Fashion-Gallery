@@ -25,4 +25,5 @@ Additional Notes
 ----
 -Any naming inconsistencies ie. (Temp), (Animated), (Click To Change) (Has many forms) etc will occur with recent additions.
 -Some items like Ultimate/Laggy Doom Dragon Scythe of the Elements are considered rare unless they get re-released again.
--Current excluded items are a few weapons in Lim's shop, which I don't find worthy to add.
+-Current excluded items are a few weapons in Lim's shop, which I don't find worthy to add. There are probably many excluded Book 1 items as well.
+-I'm trying not to remove FeatheryWings' additions even if I find something that's subjectively ugly as they originally found them worthy of being included in the repository.
