@@ -14,7 +14,7 @@ Seasonal + DC Seasonal - Purchasable from holidays OR the Book of Lore during ho
 Spirit Looms
 ----
 SW - Soulweaver
-BSW - Baltael Soulweaver
+MSW - Master Soulweaver
 CHW - Chaosweaver
 
 Regarding Temporary Masks
