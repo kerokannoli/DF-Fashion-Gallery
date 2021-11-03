@@ -9,7 +9,7 @@ Useful Tags and Acronyms to Know
 ----
 DC - Dragoncoins (In game or DC offer)
 SO - Special Offer (Heromart)
-Seasonal + DC Seasonal - Purchasable from Holidays OR the Book of Lore during holidays.
+Seasonal + DC Seasonal - Purchasable from holidays OR the Book of Lore during holidays.
 
 Spirit Looms
 ----
