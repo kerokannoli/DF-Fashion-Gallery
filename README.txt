@@ -25,3 +25,4 @@ Additional Notes
 ----
 -Any naming inconsistencies ie. (Temp), (Animated), (Click To Change) (Has many forms) etc will occur with recent additions.
 -Some items like Ultimate/Laggy Doom Dragon Scythe of the Elements are considered rare unless they get re-released again.
+-Current excluded items are a few weapons in Lim's shop, which I don't find worthy to add.
