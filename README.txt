@@ -1,4 +1,4 @@
-Last updated: 05/08/22
+Last updated: 05/25/22
 ----
 This image collection was originally updated by FeatheryWings until 2019. I took it upon myself to try and update the guide to the best of my ability, and will do so whenever I have enough free time. I'll also have 3ach's help in regard to adding and organizing new items. I recommend downloading this as a folder so you can easily view everything with thumbnails.
 Ideally I'll update this whenever new items are released, but if not, they'll likely come in batches. Thank you for your patience and happy fashion hunting!
