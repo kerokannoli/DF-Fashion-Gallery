@@ -1,4 +1,4 @@
-Last updated: 08/09/2022
+Last updated: 08/24/2022
 ----
 Shoutout to Demonic and Silvy for maintaining the DF encyclopedia and providing entries for every new item.
 
